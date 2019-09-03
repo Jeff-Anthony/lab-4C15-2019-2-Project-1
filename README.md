@@ -1,3 +1,0 @@
-# PROYECTO DE LABORATORIO 2
-
-==Indice
